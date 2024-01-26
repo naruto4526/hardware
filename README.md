@@ -7,4 +7,5 @@ There are three sensors that the code is written for. They are,
 - MPU6050
 - MLX9614
 - MAX30100
+  
 All of these sensors work with I2C, and are therefore connected to the I2C lines of the ESP32. Vcc and GND connections are also made.
